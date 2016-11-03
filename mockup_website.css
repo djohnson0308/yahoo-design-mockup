@@ -1,0 +1,115 @@
+
+/*----------Header----------*/
+nav {
+  background-color: #6a208b;
+  margin-left: -1em;
+  margin-right: -1em;
+  /*padding-top: auto;*/
+  /*padding-bottom: auto;*/
+
+}
+
+.nav-bar {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 0em;
+  padding-bottom: 0em;
+}
+
+#topLogo {
+  color: white;
+  margin-left: 10em;
+}
+
+.search-bar {
+  /*position: absolute;*/
+  display: inline;
+  /*float: left;*/
+  margin-left:auto;
+  margin-top: 1em;
+
+}
+
+ul {
+    list-style-type: none;
+    overflow:auto;
+    /*margin: 0;*/
+    /*padding: 0;*/
+  }
+
+ul li {
+  float:left;
+}
+
+/*----------Movie-pic----------*/
+
+#movie-pic {
+  background-image: url("http://s18.postimg.org/el01px2qx/Eisenberg_Background_2016_10_27_at_3_40_48_PM.png");
+  margin: 0em -1em 0em -1em;
+  padding-bottom: 20.6em;
+}
+
+
+/*----------Nav-bar----------*/
+
+#nav-bar2 {
+  display: inline-block;
+  text-align: center;
+  margin-left: 26em;
+  margin-right: 25em;
+  margin-bottom: 0em;
+  margin-top: 0em;
+}
+
+#nav-bar2 li {
+
+}
+
+#nav-bar2 li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  /*text-align: center;*/
+  /*padding-left: 1.5em;*/
+  padding: 14px 14px 14px 14px;
+}
+
+#nav-bar2 li a:hover {
+    background-color: #B452CD;
+}
+
+/*----------Twitter & Flicker link----------*/
+
+#left {
+  float: left;
+  width: 25%;
+  overflow: hidden;
+  margin-left: 8em;
+  display:inline;
+  text-align: left;
+  margin-top: 6em;
+}
+
+/*----------News Stories----------*/
+
+#right {
+  overflow: hidden;
+  width: 40%;
+  margin-top: 1.5em;
+  line-height: 2.0;
+}
+
+#right li a {
+  text-decoration: none;
+  color: black;
+
+
+}
+
+/*----------Yahoo Acquires Tumblr----------*/
+
+footer {
+    background-image: url("http://s15.postimg.org/wzd6xr2vv/Screen_Shot_2016_10_27_at_9_20_28_PM.png");
+    margin: 0em -1em 0em -1em;
+    padding-bottom:25em;
+}
